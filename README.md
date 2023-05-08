@@ -15,20 +15,20 @@ REPOSITORY CLONING
 
 To clone the repositoy, type the command in the target folder in the git bash terminal:
 
-'git clone https://github.com/mkaczorow/intonation_analysis'
+`git clone https://github.com/mkaczorow/intonation_analysis`
 
 
 CREATING ENVIRONMENT
 
 In order to create conda environment in folder where the repositort is located, in the git bash terminal, type:
 
-conda env create --file env.yml --name intonation_analysis
+`conda env create --file env.yml --name intonation_analysis`
 
 To activate environment, type:
 
-'conda activate intonation_analysis'
+`conda activate intonation_analysis`
 
 In order to deactivate, type:
 
-'conda deactivate'
+`conda deactivate`
 
